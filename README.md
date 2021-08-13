@@ -1,1 +1,1 @@
-Nathaniel Alemu's ALX hope project
+Nathaniel Alemu's ALX project. This is gon be AWESOME.
